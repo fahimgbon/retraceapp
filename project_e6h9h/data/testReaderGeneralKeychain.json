@@ -1,0 +1,19 @@
+{
+    "keys": [
+        {
+          "name": "House Key",
+          "colour": "Gold",
+          "shape": "Hexagonal",
+          "location": "My Bedroom",
+          "locationLog": ["My Bedroom"]
+
+        },
+        {
+          "name": "Car Key",
+          "colour": "Silver",
+          "shape": "Circular",
+          "location": "My Kitchen",
+          "locationLog": ["My Bedroom", "My Kitchen"]
+        }
+    ]
+}
